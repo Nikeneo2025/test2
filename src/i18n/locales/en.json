@@ -1,0 +1,93 @@
+{
+  "title": "Harvest Booster",
+  "subtitle": "Optimize Soil Health for Maximum Crop Yield",
+  "currentSoilAnalysis": "Current Soil Analysis",
+  "primaryNutrients": "Primary Nutrients (NPK)",
+  "soilProperties": "Soil Properties",
+  "selectTargetCrop": "Select Target Crop",
+  "chooseCrop": "Choose a crop for analysis...",
+  "analyzeButton": "🚀 Boost Your Productivity - Analyze Now!",
+  "backButton": "Back to Input",
+  "importanceTitle": "Importance of Soil Parameters for Crop Yield",
+  "soilInput": {
+    "title": "Enter Your Soil Data",
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "ph": "pH",
+    "ec": "Electrical Conductivity (EC)"
+  },
+  "cropSelector": {
+    "title": "Select Your Crop",
+    "placeholder": "Choose a crop"
+  },
+  "analysis": {
+    "harvestBoosterAnalysis": "Harvest Booster Analysis for {{crop}}",
+    "overallYieldImpact": "Overall Yield Impact",
+    "basedOnNutrientLevels": "Based on current nutrient levels",
+    "potentialYield": "Potential Yield",
+    "estimatedYieldLoss": "Estimated Yield Loss: ₹{{amount}}",
+    "basedOnSellingPrice": "Based on {{price}} ₹/quintal selling price",
+    "nutrientAnalysis": "Nutrient Analysis",
+    "belowMinimum": "Below minimum by {{amount}} {{unit}}",
+    "aboveMaximum": "Above maximum by {{amount}} {{unit}}",
+    "phBelowOptimal": "pH is too low by {{amount}}",
+    "phAboveOptimal": "pH is too high by {{amount}}",
+    "withinOptimalRange": "Within optimal range",
+    "yieldImpact": "Yield Impact:",
+    "addApprox": "Add approx. {{amount}} kg/acre"
+  },
+  "status": {
+    "optimal": "Optimal",
+    "deficient": "Deficient",
+    "excess": "Excess"
+  },
+  "nutrients": {
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "ph": "pH",
+    "ec": "Electrical Conductivity"
+  },
+  "units": {
+    "mgkg": "mg/kg",
+    "ph": "pH",
+    "dsm": "dS/m"
+  },
+  "recommendations": {
+    "title": "Recommendations",
+    "deficiencies": "Deficiencies Detected",
+    "excesses": "Excesses Detected",
+    "optimalNutrients": "Optimal Nutrients",
+    "deficiencyAdvice": "Consider applying fertilizers or amendments to correct these deficiencies.",
+    "excessAdvice": "Consider leaching or adjusting practices to reduce these excesses.",
+    "optimalAdvice": "The following nutrients are at optimal levels:",
+    "maintainLevels": "Maintain these levels for healthy crop growth."
+  },
+  "importance": {
+    "nitrogen": "Nitrogen is a primary macronutrient essential for plant growth, particularly for lush, leafy growth and overall vigor. It is a key component of chlorophyll, the molecule responsible for photosynthesis, and is also necessary for the formation of amino acids, proteins, and enzymes. Adequate nitrogen ensures strong vegetative growth and high yields.",
+    "phosphorus": "Phosphorus is crucial for energy transfer within the plant, playing a vital role in photosynthesis, respiration, and nutrient uptake. It is particularly important for root development, flowering, fruiting, and seed formation. Adequate phosphorus promotes early maturity, improves crop quality, and enhances disease resistance.",
+    "potassium": "Potassium, often called the 'quality nutrient,' is essential for overall plant health, water regulation, and disease resistance. It activates many enzymes involved in various plant processes, including protein synthesis and sugar transport. Adequate potassium improves fruit quality, increases drought tolerance, and strengthens plant stems.",
+    "ph": "Soil pH is a measure of its acidity or alkalinity, and it profoundly affects nutrient availability. Most crops thrive within a specific pH range (typically slightly acidic to neutral, 6.0-7.0) because this range optimizes the solubility and uptake of essential nutrients by plant roots.",
+    "ec": "Electrical Conductivity (EC) measures the total concentration of dissolved salts in the soil, which is directly related to the amount of dissolved nutrients. A favorable EC range indicates adequate nutrient levels without causing salinity stress. High EC can cause osmotic stress, hindering water and nutrient uptake by plants.",
+    "humidity": "Although not a soil parameter, ambient humidity significantly impacts crop yield by affecting plant transpiration and water uptake. Optimal humidity levels reduce water loss through leaves, prevent wilting, and promote efficient nutrient transport."
+  },
+  "vision": {
+    "title": "India vs Global Agricultural Landscape",
+    "metric": "Metric",
+    "india": "India Avg",
+    "global": "Global Avg",
+    "gap": "Gap",
+    "data": {
+      "SmallMarginalFarmers": "Small/Marginal Farmers",
+      "FertilizerMisuse": "Fertilizer Misuse",
+      "SoilDegradation": "Soil Degradation",
+      "TraditionalSoilTesting": "Traditional Soil Testing",
+      "YieldGapRice": "Yield Gap (Rice)",
+      "YieldGapMaize": "Yield Gap (Maize)",
+      "YieldGapWheat": "Yield Gap (Wheat)"
+    }
+  }
+}
+
+
